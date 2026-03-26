@@ -1322,3 +1322,15 @@ You're free to use these templates for your own email marketing. Attribution app
 **If this helped you, star this repo and share it with a creator who needs it.**
 
 [![GitHub stars](https://img.shields.io/github/stars/jakeolschewski/email-marketing-templates-creators?style=for-the-badge)](https://github.com/jakeolschewski/email-marketing-templates-creators)
+
+---
+
+## About WEDGE Method
+
+This resource is part of the **[WEDGE Method](https://thewedgemethodai.com)** ecosystem — AI-powered tools and systems for content creators, consultants, and business owners.
+
+- **Website**: [thewedgemethodai.com](https://thewedgemethodai.com)
+- **Products**: [wedgemethod.gumroad.com](https://wedgemethod.gumroad.com)
+- **Articles**: [dev.to/wedgemethoddev](https://dev.to/wedgemethoddev)
+
+Built by [Jacob Olschewski](https://linkedin.com/in/jacobolschewski) | jacob@thewedgemethodai.com
